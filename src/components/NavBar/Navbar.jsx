@@ -1,6 +1,6 @@
 import CartWidget from "../CartWidget/CartWidget.jsx";
 import logo from "../../assets/tienda.png";
-import "./NavBar.css";
+import "./Navbar.css";
 
 function Navbar() {
     return (
