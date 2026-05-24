@@ -2,3 +2,7 @@ figure {
     
     max-height: 200px;
 }
+
+.card-actions > p {
+    width: 20px;
+}
